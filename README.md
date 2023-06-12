@@ -10,4 +10,7 @@ then run
 python main.py
 ```
 
-enjo :)
+Note:
+This game should be run in a console or terminal, not in an IDE like PyCharm or Jupyter Notebook.
+
+enjoy :)
